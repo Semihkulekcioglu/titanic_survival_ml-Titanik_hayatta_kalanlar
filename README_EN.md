@@ -12,6 +12,10 @@
 
 This project predicts the survival of RMS Titanic passengers (1912) using **Logistic Regression** and **K-Nearest Neighbors (kNN)** machine learning algorithms.
 
+<p align="center">
+  <img width="640" height="640" alt="D" src="https://github.com/user-attachments/assets/d74bf9cc-21a4-4d0a-91bc-101eb9122e18" />
+</p>
+
 ## 🎯 Topics Covered
 
 - ✅ Data Exploration & Train-Test Split
