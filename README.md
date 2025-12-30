@@ -11,6 +11,7 @@
 ## 📋 Proje Hakkında
 
 Bu proje, 1912 yılında batan RMS Titanic gemisindeki yolcuların hayatta kalma durumunu **Logistic Regression** ve **K-Nearest Neighbors (kNN)** algoritmaları ile tahmin etmektedir.
+<img width="416" height="416" alt="D" src="https://github.com/user-attachments/assets/d74bf9cc-21a4-4d0a-91bc-101eb9122e18" />
 
 ### Öğrenilen Konular
 
